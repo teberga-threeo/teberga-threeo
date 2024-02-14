@@ -36,7 +36,7 @@
     <table>
     	<tr>
     		<td>
-    			<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teberga-threeeo&layout=compact&theme=dracula&hide_border=true"/>
+    			<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teberga-threeo&layout=compact&theme=dracula&hide_border=true"/>
     		</td>
     		<td>
     			<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=teberga-threeo&show_icons=true&theme=dracula&hide_border=true"/>
